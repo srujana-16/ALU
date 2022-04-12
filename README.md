@@ -1,9 +1,5 @@
 # Assignment 1   
 
-*Note: This is a group assignment.* 
-
-**Deadline:** 29 Jan 2022 11:59 pm 
-
 ### Build An ALU
 
 You are expected to build an ALU unit with following functionality: 
